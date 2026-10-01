@@ -1,0 +1,838 @@
+Signature-Version: 1.0
+Created-By: 17.0.17 (Eclipse Adoptium)
+SHA-256-Digest-Manifest: DzyhHeMgmQyMO/xZrnQp4tNHZj9eS88Otw74beepa5k=
+SHA-256-Digest-Manifest-Main-Attributes: nzD036CPiPeC/NuTx0B2ztP1pPKU+l+
+ OqoVS8A5eOuw=
+
+Name: com/mrcrayfish/framework/platform/network/ForgeNetwork.class
+SHA-256-Digest: JSh1OFEYm8jXEKlF//tDdJYilUtq1MXmVQ5AKwBl/3o=
+
+Name: com/mrcrayfish/framework/api/client/screen/widget/FrameworkEditBox
+ $Impl.class
+SHA-256-Digest: eqqKfuHSb6AmQzcL2IqNWOMaDBvL9iXGWz92mTzGwjg=
+
+Name: com/mrcrayfish/framework/api/client/screen/widget/texture/Framewor
+ kTexture.class
+SHA-256-Digest: W8sWVeV5W2Gw3bweynjShB4+cx4h4ld4dz1GbSlG7BE=
+
+Name: com/mrcrayfish/framework/event/IPlayerEvent$ChangeDimension.class
+SHA-256-Digest: DaNZJT4ZLxV6cM2zyNoXGD/gJOcI8Z/B5fQGoTIJCvg=
+
+Name: com/mrcrayfish/framework/api/event/ServerEvents.class
+SHA-256-Digest: WM1ggwYQy63hpHeg9NnTTK212wgJWMULqQBEF55WbfQ=
+
+Name: com/mrcrayfish/framework/api/serialize/DataBoolean.class
+SHA-256-Digest: /LXA89Sjekx098uVMsXqyX1r5z7lUe7/3tfaRnLXkW8=
+
+Name: com/mrcrayfish/framework/api/serialize/DataString.class
+SHA-256-Digest: yfdnpVwCCmIA83YtppK1n8j7Xy4v/aOcPwPDO3yJFjA=
+
+Name: com/mrcrayfish/framework/api/config/AbstractProperty.class
+SHA-256-Digest: vJYeYU4QFhJL9fjrBjgxDXqJ5C+nkB6cL/1EgtHeaHk=
+
+Name: com/mrcrayfish/framework/api/event/EntityEvents.class
+SHA-256-Digest: cvDidacGqbxXwmFHvZLTwhXmYUvsyMyOrrTLfAHfRCw=
+
+Name: com/mrcrayfish/framework/api/client/screen/widget/FrameworkSelecti
+ onList$Builder.class
+SHA-256-Digest: etgwIqO0nuhPzx2N6jYkOmyE2Pu23MMvsyJ0UuhYT/4=
+
+Name: com/mrcrayfish/framework/client/multiplayer/ClientPlayHandler.clas
+ s
+SHA-256-Digest: vUJAFUi6Tc1CfHap9zSm1e0huRjZWA6mKOwoAYrzYHA=
+
+Name: com/mrcrayfish/framework/event/IPlayerEvent$Copy.class
+SHA-256-Digest: xfnhpE+mrdk3WhTNEEXugesa6/YgSqXt7sdGJ0Bmq6I=
+
+Name: com/mrcrayfish/framework/client/model/OpenModelHelper.class
+SHA-256-Digest: Ooam7GZn55HrpL0AGqZekL1vAPiIhgLe6iXqPeVPGWs=
+
+Name: com/mrcrayfish/framework/api/registry/RegistryContainer.class
+SHA-256-Digest: TCvFiS1GqDiLGh8PQBRRqxqSisFmZQFC3UVK6r12RgA=
+
+Name: com/mrcrayfish/framework/api/serialize/DataObject.class
+SHA-256-Digest: OIZHCX8TnDY/RZG82izIWL9j63ULSSgqSf8gz3TVpwQ=
+
+Name: META-INF/services/com.mrcrayfish.framework.platform.services.IConf
+ igHelper
+SHA-256-Digest: gM2TV/9HbQCZuAomfBpPWaYaitjMy3omKet/Bg0M9Ws=
+
+Name: com/mrcrayfish/framework/api/sync/Serializers$1.class
+SHA-256-Digest: aSGwgy0tfcDJRFbGsZMIPdYEPKYveWgm09UZjD/k3E0=
+
+Name: com/mrcrayfish/framework/api/Environment.class
+SHA-256-Digest: BBWtdoUpa+BJtqjl5r3iZFkFslwBY6qKtVA4ssHtg4g=
+
+Name: com/mrcrayfish/framework/event/IPlayerEvent$EndTrackingEntity.clas
+ s
+SHA-256-Digest: 56VUKa2Zlqedx4I6MTNKb2AAKULP2gy/rragu91rROk=
+
+Name: com/mrcrayfish/framework/event/ITickEvent$EndPlayer.class
+SHA-256-Digest: UiW/f25vHexCHk9UCDUlrN25HEEoAgz9oJcOzzXGQjk=
+
+Name: com/mrcrayfish/framework/client/model/geometry/OpenModelGeometry.c
+ lass
+SHA-256-Digest: pOw0ZBJ5S0Pc2KaaPB43vRuxXi1L+jDvqmv2vCh3T0k=
+
+Name: com/mrcrayfish/framework/api/LogicalEnvironment.class
+SHA-256-Digest: +HKBgre+Y4JeZmiyExcjjcUSj3YLbp81IyvbXqO35rU=
+
+Name: com/mrcrayfish/framework/api/network/MessageDirection.class
+SHA-256-Digest: QJziwrzPgLzokrjHC1GIN1WSmvMfaW3/1ODajiclRK8=
+
+Name: com/mrcrayfish/framework/api/config/StringProperty.class
+SHA-256-Digest: DeeBpA+j6IgrL49FWQiGCtAKC8+R9KXTvtuisdMSjaM=
+
+Name: com/mrcrayfish/framework/api/registry/WrappedRegistry.class
+SHA-256-Digest: IoVY0G11OED5UQETomCp8rnAA7DAB+DBJGKtkup01ec=
+
+Name: com/mrcrayfish/framework/api/registry/FrameworkRegistry$Builder.cl
+ ass
+SHA-256-Digest: S8BBwDixxBw8LeaLtybwOQukUKCz+i7PmU9rODkgG5U=
+
+Name: com/mrcrayfish/framework/event/IPlayerEvent$PickupExperience.class
+SHA-256-Digest: RzOqoe6IedahKB4DzPhTolyGNpKvuGXzFDzykSJMa98=
+
+Name: com/mrcrayfish/framework/api/sync/SyncedDataKey.class
+SHA-256-Digest: axNeIakI/qcHc6miPRLPPDdcS70sxGKZP6QO6VuHJow=
+
+Name: com/mrcrayfish/framework/api/sync/Serializers$14.class
+SHA-256-Digest: XGIbzsYvPA71zdHfvPR/nZom7eUXeSB+ujvG1fbtuPk=
+
+Name: com/mrcrayfish/framework/event/IServerEvent$Stopped.class
+SHA-256-Digest: l4Ox4nH+AIZXFx4C80g5M4j2U7dtonuZmT/dwuhWS6o=
+
+Name: com/mrcrayfish/framework/api/client/screen/widget/FrameworkButton$
+ ContentRenderer.class
+SHA-256-Digest: /x8r9uN75l+z4FVayLVI1FpTY3qR3MAYoaVnixETf/Y=
+
+Name: com/mrcrayfish/framework/api/util/ItemStackHelper.class
+SHA-256-Digest: am6iEkEwahXbcDu/rX9Ha0tWZKGIBpG0WTezwiEyXlA=
+
+Name: com/mrcrayfish/framework/event/IServerEvent$Stopping.class
+SHA-256-Digest: L+QscZX/Sdt/yMPHQUoJGifHIwzSNOI+BZyX7dNgaC8=
+
+Name: META-INF/services/com.mrcrayfish.framework.platform.services.IRegi
+ strationHelper
+SHA-256-Digest: 2vkOyfTxkZszBGj2IUDFmbV+LCBgJcd4jwg5bTRcpeo=
+
+Name: com/mrcrayfish/framework/event/IPlayerEvent$PickupItem.class
+SHA-256-Digest: 2LOSFc1lwUBhwNfIIWZsq+tmsyH0W+CouEe6bi1WvvU=
+
+Name: com/mrcrayfish/framework/event/IServerEvent$Starting.class
+SHA-256-Digest: krAwpQPsy2jPn3C7woITEfPS5JcXn/z7WiTQaWobZU8=
+
+Name: com/mrcrayfish/framework/api/config/FrameworkConfig.class
+SHA-256-Digest: f5s3lJIfkNBa8gmGAVym4ZVb+hzoK3oUGzEJxDGLIOQ=
+
+Name: com/mrcrayfish/framework/api/client/screen/widget/Buttons.class
+SHA-256-Digest: vhPAqzH0r3uZ4Vh9gt24NuD95p4OLmn/nruvDTVm834=
+
+Name: com/mrcrayfish/framework/event/ITickEvent$EndClient.class
+SHA-256-Digest: piz2pOZELLOpqcEW6nfibd6nJgxNCoW7LUo5BuQkDtI=
+
+Name: com/mrcrayfish/framework/api/client/screen/widget/element/Icon.cla
+ ss
+SHA-256-Digest: jvukG+5t+PdEKSelsqskcFsAzL1qyyc6kq4gLGGTi3A=
+
+Name: com/mrcrayfish/framework/api/event/InputEvents.class
+SHA-256-Digest: z7NiqLeAVCKlcQ1eoIW6xKDvB5DIn5VINajzW1YXmq8=
+
+Name: com/mrcrayfish/framework/api/client/screen/widget/element/Sound.cl
+ ass
+SHA-256-Digest: sn5xWx4wb8V+CCnH8TAMrw7GibsuFiqBZpEB0QhoEOY=
+
+Name: com/mrcrayfish/framework/util/ConfigHelper.class
+SHA-256-Digest: ywONTh2n3AaAGOiu+RcmKwv20+Ad6KKXLLp1cfTv+OI=
+
+Name: com/mrcrayfish/framework/event/IInputEvent$RegisterKeyMapping.clas
+ s
+SHA-256-Digest: dfVa5PQzAOReSOpyl4pLBdX2JSTK6hOSRvRAItOPKgc=
+
+Name: com/mrcrayfish/framework/api/client/screen/widget/FrameworkButton$
+ Builder.class
+SHA-256-Digest: sWQrOOve7oEu2lGmwnY0bpTFIi8b8OjhZLvWSbPi3qs=
+
+Name: com/mrcrayfish/framework/api/client/screen/widget/FrameworkSelecti
+ onList$ItemSprites$Builder.class
+SHA-256-Digest: p4kjPiJ00UD4+hDdRd+JfyS5KSkRV9H9+EJU3F5gW98=
+
+Name: com/mrcrayfish/framework/api/event/ClientConnectionEvents.class
+SHA-256-Digest: vLXpcQ9NzbfLSqy/0x/OpLJa2nAmVscqsVOYI9+f7Pc=
+
+Name: com/mrcrayfish/framework/network/message/play/S2CUpdateEntityData.
+ class
+SHA-256-Digest: kVC6kECLHcaNJ+UeSA+eUHcM5RgJ4ra8SUVTnbb8sEs=
+
+Name: pack.mcmeta
+SHA-256-Digest: lYYA5YLMSY/ieHEw7VfNOBFbu83ysCPYK0XZG3O8ZsI=
+
+Name: com/mrcrayfish/framework/api/client/screen/widget/element/Label.cl
+ ass
+SHA-256-Digest: JCW5/0SfDnPd1FHh4p/3pEA0Z1l11VMuNl99oGzj7w0=
+
+Name: com/mrcrayfish/framework/api/serialize/DataArray.class
+SHA-256-Digest: o8meY913hDhtofHDzQ6E8XimjUIPZszbPixiIGfQEQA=
+
+Name: com/mrcrayfish/framework/event/IEntityEvent$JoinLevel.class
+SHA-256-Digest: fbgrxBqvqX5DmrNa5N6LlCPxPhfl2gEnA5U0RQA0exg=
+
+Name: com/mrcrayfish/framework/api/config/validate/Validator.class
+SHA-256-Digest: 6vT7GiOslyWIhTd6kulOEJuWGz4P+qcd51+9K02Wkww=
+
+Name: com/mrcrayfish/framework/platform/services/IClientHelper.class
+SHA-256-Digest: 0+zMHFKqzIK77bd4sWzWpZRPsQxJLylnfF/DzLnceO4=
+
+Name: com/mrcrayfish/framework/event/IScreenEvent$AfterDraw.class
+SHA-256-Digest: 1E/QUfVLEAHikWJUcH9HkHjEG2FIhm7yXXxrlfBKfdE=
+
+Name: com/mrcrayfish/framework/event/ITickEvent$EndRender.class
+SHA-256-Digest: PORU0AwZmvUodzPlirO2wpCKhNoOe+hrZN7n3y01rOE=
+
+Name: com/mrcrayfish/framework/event/IInputEvent$Click.class
+SHA-256-Digest: JNmyFYM6UliZr7qBX0ie9WmAf4kJmlleiKB1IbsqwQw=
+
+Name: com/mrcrayfish/framework/platform/ForgePlatformHelper.class
+SHA-256-Digest: v7SF6ll7JoXGy25VGg7+n/3XYCcwB5cGTMJYrybUc+I=
+
+Name: com/mrcrayfish/framework/platform/network/ForgeNetworkBuilder.clas
+ s
+SHA-256-Digest: 5u6uKZKORZWqpZyMdxhWqU1tUcdLwWQPekc1OnKuXlg=
+
+Name: com/mrcrayfish/framework/api/client/screen/widget/layout/Padding.c
+ lass
+SHA-256-Digest: cuIlTFtSa+t8ND7ANDAuoZk6vc5bm9RCob+caBTWjT8=
+
+Name: com/mrcrayfish/framework/api/network/FrameworkNetwork.class
+SHA-256-Digest: MhxXmQHXdR7mDUnGRQyR2gK7o+9PcUcsjkYlS0DlKXc=
+
+Name: com/mrcrayfish/framework/platform/ForgeEntityHelper.class
+SHA-256-Digest: 1bkYTinFBaLf7RXEzlc8tvXNsv/Vl+0SHyoY5dGZIwc=
+
+Name: com/mrcrayfish/framework/api/util/EnvironmentHelper$1.class
+SHA-256-Digest: uruFM7fScl5+qp7LgKNb89hVECC1T9R0kGp3vh5YrGI=
+
+Name: com/mrcrayfish/framework/platform/ForgeRegistrationHelper.class
+SHA-256-Digest: 5t111CyfOjKjfhpq68vj1O2dKyoNS5FRoBRavh/vFVU=
+
+Name: com/mrcrayfish/framework/api/client/screen/widget/input/Action.cla
+ ss
+SHA-256-Digest: sbzBFabXSZRBLrnRQRv5cXH0RwaOq5b/Bh/WbtpteVE=
+
+Name: com/mrcrayfish/framework/FrameworkForge.class
+SHA-256-Digest: gB1xHCr6X8Iaxx9Gp8v04k0nENRPnjjaJ7idRE0koTo=
+
+Name: META-INF/mods.toml
+SHA-256-Digest: i6qT4XBrtps5vJPhxbBHNxYrwNx3/NyHLkH/5Se7vbE=
+
+Name: com/mrcrayfish/framework/api/data/login/ILoginData.class
+SHA-256-Digest: sJ3TiJSh++D8WHnWgJPIIbycd0o2ZzvAzw4ZH9rXV6k=
+
+Name: com/mrcrayfish/framework/event/IPlayerEvent$CraftItem.class
+SHA-256-Digest: 7D1XZvS8G5pm0Ve60pwd7g05yu3AJiuuq5Tyr5Hznr0=
+
+Name: com/mrcrayfish/framework/event/ITickEvent$EndLivingEntity.class
+SHA-256-Digest: +oL8V4AMLz8alqUyVHoNUp2wKcCdrF7EdsP6PZSAks4=
+
+Name: com/mrcrayfish/framework/api/registry/CustomStatRegistryEntry.clas
+ s
+SHA-256-Digest: PTXGraM/FcdP4VCwDxwuwSiH+RCeOlFsqP7nTqypH6I=
+
+Name: com/mrcrayfish/framework/config/FrameworkConfigManager$PropertyDat
+ a.class
+SHA-256-Digest: Jx89bIFFhDo11+wZV4Q1QR3UrKsLjNVVpjFgTebjQLk=
+
+Name: com/mrcrayfish/framework/entity/sync/ForgeSyncedEntityDataHandler.
+ class
+SHA-256-Digest: mBrxrkyV/RGs9KLSHQ6Q51GDGwB35CDoenGlw69xpgQ=
+
+Name: com/mrcrayfish/framework/platform/ForgeConfigHelper.class
+SHA-256-Digest: BE5M0ydTs9SoQtZAfQTdGtu1PNRSI6fTbVdvh1ZPi68=
+
+Name: com/mrcrayfish/framework/FrameworkSetup.class
+SHA-256-Digest: WwHq84lYB+ptYtdQ+YEtdbz7+Ex9W5PU0tCqK93z8+E=
+
+Name: com/mrcrayfish/framework/api/client/screen/widget/FrameworkSelecti
+ onList$ScrollerSprites.class
+SHA-256-Digest: YJV80ulLF2170bZFZliTpDkzskxkBojiZRnqOmi3/og=
+
+Name: com/mrcrayfish/framework/api/config/IntProperty.class
+SHA-256-Digest: vet3PMt2m5iMlYyGBgs56bfhO0lE3KBrs+LnsFdEPHA=
+
+Name: com/mrcrayfish/framework/api/event/FrameworkEvent.class
+SHA-256-Digest: bj24NsVVEdsHVonysVIsNznvV0FY5z3RCgWMIptoAsw=
+
+Name: com/mrcrayfish/framework/api/client/FrameworkClientAPI.class
+SHA-256-Digest: ZVJKpEw8He/b55Gx/Cxo6oP+RzFa3mxjp6AGdm8EZNY=
+
+Name: com/mrcrayfish/framework/api/sync/SyncSignal.class
+SHA-256-Digest: LmeZuN/c3VjCT+cawSWg2N44mTLKpFU66FV9iTxtu4s=
+
+Name: com/mrcrayfish/framework/entity/sync/Updatable.class
+SHA-256-Digest: g2xRiA9/8Nuv12lW+B1vHEbEQQgZ9by4Esb3JvXyuZc=
+
+Name: com/mrcrayfish/framework/event/IInputEvent.class
+SHA-256-Digest: DcqFmyWrJ/RQJBGjDB9zsf9KzU2RMtOg3rlFIWiIxTk=
+
+Name: com/mrcrayfish/framework/network/message/handshake/S2CLoginConfigD
+ ata.class
+SHA-256-Digest: 0cGCiNnRSj2sBghNqgSJMnwQS3XHVWRuCJ958EGVwzQ=
+
+Name: com/mrcrayfish/framework/api/client/screen/widget/FrameworkSelecti
+ onList.class
+SHA-256-Digest: 1XxO8Wf9Ki4vwufiTSaQw3ymLeT58tsE3uHE85rILU0=
+
+Name: com/mrcrayfish/framework/api/client/screen/widget/layout/EdgeInset
+ s.class
+SHA-256-Digest: YAAMr8mw6DeFEMVOXqZ5Maf9bNv3gZrK0utbMioQDMA=
+
+Name: com/mrcrayfish/framework/api/sync/Serializers$8.class
+SHA-256-Digest: qDZKrylh1IrCa6vhbkIzxzDv7r8cwXIeF8uvt4DiXTo=
+
+Name: com/mrcrayfish/framework/api/client/screen/widget/texture/WidgetTe
+ xtures.class
+SHA-256-Digest: JnaPdRNw0iSKI9zSjzEd032vM0kyvb18NkztU4Dyf00=
+
+Name: com/mrcrayfish/framework/api/serialize/DataType.class
+SHA-256-Digest: RSxCHO5Ov+vgHlAe8n5ERNMTSLAp+b4x32d/aFD3pj8=
+
+Name: com/mrcrayfish/framework/network/message/handshake/S2CLoginData.cl
+ ass
+SHA-256-Digest: efvp4YHMtaxMjWa2C+RXfF5zgoexyKGaFnZ/7r5E91U=
+
+Name: com/mrcrayfish/framework/api/config/ListProperty$Type.class
+SHA-256-Digest: 6XVtvPHgqMD1ShWXyogP+vU6XJe57lX1kCfWo0iE+nM=
+
+Name: com/mrcrayfish/framework/Constants.class
+SHA-256-Digest: kfEscUKdaGEfVXXRcZyvhQ39xjXVvMbQUMalehE4JdM=
+
+Name: com/mrcrayfish/framework/api/config/validate/NumberRange.class
+SHA-256-Digest: c9AjFueAWu42IfW0mmyuOscTBZJaJ7uP7rVeRV+x9ps=
+
+Name: com/mrcrayfish/framework/Registration.class
+SHA-256-Digest: mT/4mYZduih1DMHJ1bs1j8s25L5meX7nkAkjOEFQJ0E=
+
+Name: com/mrcrayfish/framework/api/sync/Serializers$5.class
+SHA-256-Digest: 7grzlvtXWHJkYfidYhVJ8g1OSwdrwgImvM2eqpzyBN8=
+
+Name: com/mrcrayfish/framework/event/IServerEvent.class
+SHA-256-Digest: KKUnREMJ93BUw2nW9EOu9j0m7K3XA825uKUUPO0uuCg=
+
+Name: com/mrcrayfish/framework/api/sync/Serializers$11.class
+SHA-256-Digest: h7Fo7LZJshpOdWFuDQ6a/QdiGg9nSPM34DcnLJRQnzc=
+
+Name: com/mrcrayfish/framework/api/config/ConfigType.class
+SHA-256-Digest: GxCG7m4w+/RIHeD2amKiRyu1n12J5hjdMU5vHpzshyY=
+
+Name: com/mrcrayfish/framework/api/sync/Serializers$7.class
+SHA-256-Digest: OtJcfAigYpFZTQNR+GTwCpfkiChPBA9NEXcT2oRkpOo=
+
+Name: com/mrcrayfish/framework/api/client/screen/widget/layout/Border.cl
+ ass
+SHA-256-Digest: /iHHPqjKm3K/xDJtcQE7onRSF12mm8GMy2PHjV30yHU=
+
+Name: com/mrcrayfish/framework/api/network/message/HandshakeMessage.clas
+ s
+SHA-256-Digest: bO8eJTYmsTgXE+oPCnFjxmbgtqEIfFR4zh6cHOKycDs=
+
+Name: com/mrcrayfish/framework/network/LoginDataManager.class
+SHA-256-Digest: w3YpWx0oqJQuEZqwwRPEmBBM7iVd7G7/AMFv7wErnsI=
+
+Name: com/mrcrayfish/framework/api/client/screen/widget/FrameworkButton$
+ DefaultContentRenderer.class
+SHA-256-Digest: ValgfxdAHoXzojUZpFZwF2TU0fDJCYs36aqAYP0WTjg=
+
+Name: com/mrcrayfish/framework/platform/services/INetworkHelper.class
+SHA-256-Digest: qYFIdkvXQO3Szg/CZxj7IShLGK+bcUpj5/ydboArtEA=
+
+Name: com/mrcrayfish/framework/config/FrameworkConfigManager.class
+SHA-256-Digest: lncW3qp3p8o+qc8WIvvHavyWxb5SZeVH/4177ZmPibg=
+
+Name: com/mrcrayfish/framework/api/sync/SyncSignal$Consumer.class
+SHA-256-Digest: TQajU0M03eGNlSNMbCcCFjlNNV/8CpP99vuaCBGS5E0=
+
+Name: com/mrcrayfish/framework/FrameworkData.class
+SHA-256-Digest: z53otHcs6RRElAiipPMnhVucoG823ZwJSBeX8+kYvEA=
+
+Name: assets/framework/textures/gui/widgets.png
+SHA-256-Digest: C3OMauJybHwAqWGkxEWNiFQ1AmODVKsWpqFSwWUO7i0=
+
+Name: com/mrcrayfish/framework/api/client/screen/widget/FrameworkSelecti
+ onList$Item.class
+SHA-256-Digest: +TE5N9ui0CpMmLiRqxwCF2IWYWqE1trTMVWVgkBGJ38=
+
+Name: com/mrcrayfish/framework/api/client/screen/widget/FrameworkButton.
+ class
+SHA-256-Digest: 1QGoGj8ULYh147uWvjVOaxJUNUfdN0fD95YXwnOilgU=
+
+Name: com/mrcrayfish/framework/client/ClientBootstrap.class
+SHA-256-Digest: 4U2hNTwrzuNBaloSTpyG4MqdTL3TppEDhH/91YDMpbs=
+
+Name: com/mrcrayfish/framework/network/Network.class
+SHA-256-Digest: qdSLquGGDOAwmXCKMvzKA7jR/sF2+c82UPTJXEoXRnI=
+
+Name: com/mrcrayfish/framework/api/registry/RegistryEntry.class
+SHA-256-Digest: wooh6MKkSy20tLTfcQ0F8aaGwH7bTuVIWAaXzAOF7ng=
+
+Name: com/mrcrayfish/framework/api/sync/Serializers$10.class
+SHA-256-Digest: 88BoMlvbpyy6VFz8e9/stivLlTLYkN8B+J3jC7wrEUI=
+
+Name: com/mrcrayfish/framework/api/client/screen/widget/FrameworkEditBox
+ $Builder.class
+SHA-256-Digest: MrfRA4OjHTCqLLV96WzFF+tIjr3fC/8bPoP9shJHzxU=
+
+Name: com/mrcrayfish/framework/event/IScreenEvent$AfterDrawContainerBack
+ ground.class
+SHA-256-Digest: VgVMbrjZ4x7Y9VTM+CCG2n3XGFgtosgI1CAK+cVj8/c=
+
+Name: com/mrcrayfish/framework/event/ITickEvent$EndServer.class
+SHA-256-Digest: DxdTEbmPdA4werY3PpqF+2Dri8o0kURSZbpJYN06W9Q=
+
+Name: com/mrcrayfish/framework/platform/services/IRegistrationHelper.cla
+ ss
+SHA-256-Digest: 81Bu94O7EXYvp1hE/7rj42ipIWujSGPxRbybGsOE6K0=
+
+Name: LICENSE_Framework
+SHA-256-Digest: xWBisw287WOMDl/Mn4LRdObCditHoD4VYcSiuaUSosE=
+
+Name: com/mrcrayfish/framework/api/client/screen/widget/element/Label$Im
+ pl.class
+SHA-256-Digest: rmekwpMcsm9obLo1d59Ko7e6z2OyLqUMiNx6jSEFcso=
+
+Name: com/mrcrayfish/framework/api/config/LongProperty.class
+SHA-256-Digest: bJyZNTCEUynsiXxgHIMKwUs+l3ScRP8/66JsrMWP/LI=
+
+Name: com/mrcrayfish/framework/config/ConfigWatcher.class
+SHA-256-Digest: /7iCqLcVmPJvpFNBloKsDh5q2IVujj1CDpcvP2kegjc=
+
+Name: com/mrcrayfish/framework/event/ITickEvent$StartLivingEntity.class
+SHA-256-Digest: a+P5MZhnLVjEbcUuY87h3b9ibv4zQMdQQ1WFR+4G5zQ=
+
+Name: com/mrcrayfish/framework/entity/sync/ForgeSyncedEntityDataHandler$
+ 1.class
+SHA-256-Digest: MokaLC/K3lVHMvV5X6YGSMc/FVZCeXDQTolUCLHA0is=
+
+Name: com/mrcrayfish/framework/api/sync/IDataSerializer.class
+SHA-256-Digest: 1pZNm8geMjZLXdrmEjZJutLSYZ+w26f1TsF4N5KToSo=
+
+Name: com/mrcrayfish/framework/api/sync/Serializers$6.class
+SHA-256-Digest: ompuQo3ugvrfga//Qcrk+vSthzGi95h5RwjL9kHa70Q=
+
+Name: com/mrcrayfish/framework/registry/VanillaRegistryProxy.class
+SHA-256-Digest: 6wqM02yU/zDx342AYfJRPUIHEKvVmYyzUYYh4g1dzAM=
+
+Name: com/mrcrayfish/framework/platform/registry/ForgeRegistryProxy.clas
+ s
+SHA-256-Digest: 29u8hS/cGwcXrQiEgpAonH3zwvxWUiurYYKu1Esdw6w=
+
+Name: com/mrcrayfish/framework/api/event/IFrameworkEvent.class
+SHA-256-Digest: tJS+Dg3X4SvIiqhFbZjgi9buIhk3EndD4CxwyZWc8Hs=
+
+Name: com/mrcrayfish/framework/client/model/geometry/OpenModelGeometry$L
+ oader.class
+SHA-256-Digest: G1UXB4MV3KVUBvDKqOT0zQCSnxp2M7+Nv3vzs57akpo=
+
+Name: com/mrcrayfish/framework/registry/RegistryProxy.class
+SHA-256-Digest: P4h8PxIX0U38MfaiwqaZBezkJ6I0hEZnvsd4qFKpdOk=
+
+Name: com/mrcrayfish/framework/util/ReflectionUtils.class
+SHA-256-Digest: Iz+DM5MzMENg2jQ14Ikuqvz20MSq5xKaYjDN7Kjw0ic=
+
+Name: com/mrcrayfish/framework/entity/sync/SyncedEntityData.class
+SHA-256-Digest: YAqWMuoGTRgMUJ2JoZcaExHnEElRjZ/6nt72FiIjy+Y=
+
+Name: com/mrcrayfish/framework/event/IClientEvent.class
+SHA-256-Digest: pcgLSoF3JvF7KoRjaogV/tJZAm80tf9sGoqLUW66kn0=
+
+Name: com/mrcrayfish/framework/event/IPlayerEvent.class
+SHA-256-Digest: jsOfTYnZIceLOHGbvwee4x/gNpMUUHU/A0NbygftEx4=
+
+Name: com/mrcrayfish/framework/api/sync/Serializers$12.class
+SHA-256-Digest: 9x6ERWyV1CMs1jpfSFlPS0+EShqCe24SinT/1vPkfI4=
+
+Name: com/mrcrayfish/framework/api/sync/SyncedObject.class
+SHA-256-Digest: +P189GD9GExYoJVapYrnKzpjzbZgl3QiHznmWzflXXU=
+
+Name: com/mrcrayfish/framework/platform/network/ForgeMessageContext.clas
+ s
+SHA-256-Digest: dIttcqcy0t5Ag1w4cpjHmkVB+fmv6zI51zNTo67DmnQ=
+
+Name: com/mrcrayfish/framework/api/client/screen/widget/texture/NormalTe
+ xture.class
+SHA-256-Digest: A9bDHJfTDHYO1s/9vCn1ECGYSX1DFYXKL+Wr4QEQ2r8=
+
+Name: com/mrcrayfish/framework/api/sync/Serializers$9.class
+SHA-256-Digest: T/lG/sR0gZQOyfB+pBMyQ1+fLvciHf9VU8WBXQottcI=
+
+Name: com/mrcrayfish/framework/api/network/LevelLocation.class
+SHA-256-Digest: pE2V6ASBr7vDREW2oCwIMabzJNO2B5rR/n2OMdN611U=
+
+Name: com/mrcrayfish/framework/api/sync/Serializers.class
+SHA-256-Digest: W1El9mRpxsux/AbmvMUjuw9FtbNlw1d4H4LokLnHkUs=
+
+Name: com/mrcrayfish/framework/event/IClientConnectionEvent$LoggingIn.cl
+ ass
+SHA-256-Digest: 5IFCRKJzDWwqjrJOoxNvR9yZLuBq1myF7tj+IaLCBJ0=
+
+Name: com/mrcrayfish/framework/client/ClientForgeEvents.class
+SHA-256-Digest: YYHCL7lSe324LMFXGiZRBHStXIcUE+QjoniAK8e+MkA=
+
+Name: com/mrcrayfish/framework/api/client/screen/widget/FrameworkSelecti
+ onList$ScrollBarStyle.class
+SHA-256-Digest: Tz4CWA18YnufOBfoBZoNf9IcEtSIMmtodYZdPdiNVjo=
+
+Name: META-INF/services/com.mrcrayfish.framework.platform.services.IPlat
+ formHelper
+SHA-256-Digest: 2HLtpB+ONmJRdnN4sK/WILXxrdANzHYJT4vGpPTwRR8=
+
+Name: com/mrcrayfish/framework/api/sync/SyncedDataKey$SyncMode.class
+SHA-256-Digest: qMEXtEAofE0pjVrpEGLKLdZp8BK3ncs09hwSUzojxCo=
+
+Name: com/mrcrayfish/framework/network/message/play/S2CSyncConfigData.cl
+ ass
+SHA-256-Digest: Jl3+NcYnZYHLrZ7jnonJrr3HSDfQO25UkiRZ5qqyOb4=
+
+Name: com/mrcrayfish/framework/client/model/IOpenModel.class
+SHA-256-Digest: HIPHKzl28pjcIb0wAGRq1wJZPa8+W5ik4c7rN8cDzaw=
+
+Name: com/mrcrayfish/framework/api/event/ClientEvents.class
+SHA-256-Digest: Wurr78b38jhv20hhFrNuIIEtIQoU5RYKdy4mdnRMKcg=
+
+Name: com/mrcrayfish/framework/client/model/ForgeBakedOpenModel.class
+SHA-256-Digest: NlVtCXjnLtTvdUSeWXRS8CkuAfdCY39ml7XNGagSNJI=
+
+Name: com/mrcrayfish/framework/entity/sync/ForgeSyncedEntityDataHandler$
+ Provider.class
+SHA-256-Digest: s8Kv89L8k8jbzzidPY8XveI3xd0Ljnwv5LzdtSe78BI=
+
+Name: com/mrcrayfish/framework/event/ForgeEvents.class
+SHA-256-Digest: Siw03EUnZdlWki1X9u1qaI7/y2MVZWU8IZjB61Q9+3g=
+
+Name: com/mrcrayfish/framework/api/network/message/PlayMessage.class
+SHA-256-Digest: EmpiiLgnohqc7qcd/kKU6lRKB6lkxos57jfZAuIwEMA=
+
+Name: com/mrcrayfish/framework/api/registry/BlockRegistryEntry.class
+SHA-256-Digest: rcKopwY49w49fE/yMewgMHZEe2AxmZtcuuA0oHCI+l8=
+
+Name: com/mrcrayfish/framework/api/serialize/DataEntry.class
+SHA-256-Digest: Mqrk8VoI3O5z4nJD2L2NmtFmxb6hu7r+9+ayOZzdXmc=
+
+Name: com/mrcrayfish/framework/platform/services/IConfigHelper.class
+SHA-256-Digest: 0lvJYsUGjNYFQ+OuBkzUY09r7gFW52vkRmcVC8ae5Ho=
+
+Name: com/mrcrayfish/framework/api/client/screen/widget/input/MouseInput
+ .class
+SHA-256-Digest: OZppX2JL0wBYAoSLw2m6OqbWy0sDnRE/cyWPkt3fePM=
+
+Name: com/mrcrayfish/framework/event/ITickEvent$EndLevel.class
+SHA-256-Digest: nXAxq6GWwreG27+irJSSWDXTevpsMTkjQ8CGAR8MV1k=
+
+Name: com/mrcrayfish/framework/event/IClientConnectionEvent.class
+SHA-256-Digest: C3WcWW9o+oieB9So3lb2rmnYWDf+6VajTuQ1mv97RUw=
+
+Name: com/mrcrayfish/framework/platform/ClientServices.class
+SHA-256-Digest: kDeiygz2OylIkhO2ShXHl5qB+b/IWF1PZzj7/kth2fs=
+
+Name: com/mrcrayfish/framework/entity/sync/DataEntry.class
+SHA-256-Digest: zifyUZVStNYNcM/uc8jZUo33O1zq7qsdfuHkgtrCFrg=
+
+Name: META-INF/services/com.mrcrayfish.framework.platform.services.IClie
+ ntHelper
+SHA-256-Digest: 7MH9ERjZrdmJsOeRGkLmppytAoyrdSM+j4vsrw32S7g=
+
+Name: com/mrcrayfish/framework/platform/Services.class
+SHA-256-Digest: K17qJ7h49Z5cCt19ifg6RcIVvgd6a91CpSxms6PZd2Y=
+
+Name: com/mrcrayfish/framework/config/FrameworkConfigManager$ConfigScanD
+ ata.class
+SHA-256-Digest: QXBimklCSsdnTZaxnVUcXZ+m6Ku3aJhFVbLtT1W+sO4=
+
+Name: com/mrcrayfish/framework/api/client/screen/widget/FrameworkEditBox
+ .class
+SHA-256-Digest: 6BqMU0SJgEOQKtXlI10O0XllAACxqeqElCPdCGkTELI=
+
+Name: com/mrcrayfish/framework/api/FrameworkAPI.class
+SHA-256-Digest: ZgFNpMcwzpKu5mrcppi2dzrOEbH18PlEWwaPZNq4QpA=
+
+Name: com/mrcrayfish/framework/platform/services/IEntityHelper.class
+SHA-256-Digest: Y6oYb3miH9PM9wVu9vW5KQ7hD04kXV9ixnO3g0UIiIQ=
+
+Name: com/mrcrayfish/framework/event/IPlayerEvent$StartTrackingEntity.cl
+ ass
+SHA-256-Digest: OJRPw0hp+zcNc50vqZ9RSsnqPKoY1op7G3jmFG5aP1M=
+
+Name: META-INF/accesstransformer.cfg
+SHA-256-Digest: rzHa4jANeY4Uh+fApBN/q+H22Jikm3Z5XAcCg7UaEwA=
+
+Name: com/mrcrayfish/framework/config/FrameworkConfigManager$ValueProxy.
+ class
+SHA-256-Digest: zdD45j+1Hm51l8hPTtbNK/gGT3Dq7wSFSpK1Qu/O3rE=
+
+Name: com/mrcrayfish/framework/client/resources/IDataLoader.class
+SHA-256-Digest: ISnu7cqTgI7rYt40kmjsKebnbrj45HZk3jSAaaHUays=
+
+Name: com/mrcrayfish/framework/event/ITickEvent$StartClient.class
+SHA-256-Digest: ivsgteBWaE7T3vIdrnOLAhptFuYfITZaFBUQwl3W3bk=
+
+Name: com/mrcrayfish/framework/api/network/MessageContext.class
+SHA-256-Digest: h9qlIwc+c+0aWUO1zbcdk6iUyMO6kmEYUaNLbs6GZpk=
+
+Name: com/mrcrayfish/framework/event/IPlayerEvent$Death.class
+SHA-256-Digest: DqiVtQ09OPsAqlloSrvdiHDXcIFvfJqYY3bR3mGFf2Y=
+
+Name: com/mrcrayfish/framework/event/IInputEvent$Key.class
+SHA-256-Digest: 6mRx7VXZ+SNpXbqDRWx6vaebit+vFdDEvNlDG0H7zC4=
+
+Name: com/mrcrayfish/framework/event/IScreenEvent.class
+SHA-256-Digest: gJ6ZBXPtos7Cb0tRS349C3L/0bfQADw81xcS12fqEng=
+
+Name: com/mrcrayfish/framework/api/sync/Serializers$4.class
+SHA-256-Digest: MqQwPv+lfEpuGN6cLQgUVblp9p7L3Ghqqaf40kzu/7U=
+
+Name: com/mrcrayfish/framework/event/IScreenEvent$Closed.class
+SHA-256-Digest: fZ1bNkMkVVVeXUVmmk3QMpL3wFYyYDS9lt4x1q7kMbo=
+
+Name: com/mrcrayfish/framework/event/IServerEvent$Started.class
+SHA-256-Digest: tS80q6UBAmVB6peQAy1Mue0YqwvLrtA4ihWriJdS+dU=
+
+Name: com/mrcrayfish/framework/client/JsonDataManager.class
+SHA-256-Digest: n5ioX4zbEe4XwejXHH7f3YBuHcOJAkB/edaId4AVm4I=
+
+Name: com/mrcrayfish/framework/event/ITickEvent$StartRender.class
+SHA-256-Digest: 6QMsEW51X1gi1crQ7LuyhsqBwS3tAXeQdTZLtSk0XRw=
+
+Name: com/mrcrayfish/framework/api/client/screen/widget/element/Sound$Im
+ pl.class
+SHA-256-Digest: YsbZIqTdZfGvmHWkORtKg5jg5//LUnlhHCVvfDu5N/0=
+
+Name: com/mrcrayfish/framework/event/IScreenEvent$Opened.class
+SHA-256-Digest: JBOPPiZ/sRvskR/yseCp+PLSTs7dB7QoAXmQp5KD4gg=
+
+Name: com/mrcrayfish/framework/config/FrameworkConfigManager$IMapEntry.c
+ lass
+SHA-256-Digest: DB5d7JnnBIOgt9Mep/XYyFheD8ZReqhwg+e/eQzsDWc=
+
+Name: com/mrcrayfish/framework/api/event/TickEvents.class
+SHA-256-Digest: sJmEVLDLr+d913b4QPWGUEV/8QvX2dbdMj0/doqK/TQ=
+
+Name: com/mrcrayfish/framework/client/ClientUtils.class
+SHA-256-Digest: /I+z70tOMO4eqQDxcy5xhv+AJ9ZyYuQU/8EYVfNaHpI=
+
+Name: com/mrcrayfish/framework/config/FrameworkConfigManager$1.class
+SHA-256-Digest: NQpezkD28FOLumI1+33nsWpqSHrwWNjwVZXrIeProtA=
+
+Name: com/mrcrayfish/framework/entity/sync/DataHolder.class
+SHA-256-Digest: c5lzqCjXwS5+wEAf9zoW5W71cmVVcYInXrzeFqNpNAk=
+
+Name: com/mrcrayfish/framework/api/sync/Serializers$3.class
+SHA-256-Digest: z8Yo7IsyBJVLr3IXg9pCBzMxiZRle7wmWtAfVXO25n4=
+
+Name: com/mrcrayfish/framework/api/registry/RegistryEntry$1.class
+SHA-256-Digest: xUhlaJoYAH2tBDpAJ1sZg9tN0Pozh/00k1Ibfc7pqVA=
+
+Name: com/mrcrayfish/framework/event/IPlayerEvent$Respawn.class
+SHA-256-Digest: 0IpNHTQSUcYHAIaZGW01pouHTvjXM7cET8d6il061kU=
+
+Name: com/mrcrayfish/framework/api/serialize/DataNumber.class
+SHA-256-Digest: dPXnzYzFITY54+hPBwWHJXzy/eIPMf6rEcYyVSRiUIY=
+
+Name: com/mrcrayfish/framework/event/ITickEvent.class
+SHA-256-Digest: NhJvvP2wOhKKSSXPeItXPOHkv4t23qAHB+o2JVqTbKg=
+
+Name: com/mrcrayfish/framework/api/sync/Serializers$2.class
+SHA-256-Digest: AJbwPUpyDn4MjrCorRYWmZU420plNpqVFd6O5GjrP7Q=
+
+Name: com/mrcrayfish/framework/api/config/ListProperty.class
+SHA-256-Digest: YO4EFI0hf8y1JnRHZpf7gF5bCQ1M+bpTlEqfiah7RXY=
+
+Name: com/mrcrayfish/framework/api/config/event/FrameworkConfigEvents.cl
+ ass
+SHA-256-Digest: QIh+PL/IhATk8myKtXv+bLl9yvjMUKRIDjBtjQSsBL4=
+
+Name: META-INF/services/com.mrcrayfish.framework.platform.services.IItem
+ Helper
+SHA-256-Digest: hN/a+1g2Dym7IRCUhiXeDNWV5N0YfjCSjVbYPH8SHwU=
+
+Name: com/mrcrayfish/framework/api/sync/SyncedDataKey$Builder.class
+SHA-256-Digest: JGKl+4/563SKx21wN6Xo/7hYjHebbc1pTJgHAnpYrMQ=
+
+Name: com/mrcrayfish/framework/event/IScreenEvent$BeforeDraw.class
+SHA-256-Digest: s1EUnbeC+bbBVMVUY2Pq6LMzu0HPp6JjvUI+w1cAbzA=
+
+Name: framework_icon.png
+SHA-256-Digest: 0AxM9CUTyBuHXXWKayBbf/0PIcNbfi8kSVsXrh9VOYE=
+
+Name: assets/framework/lang/en_us.json
+SHA-256-Digest: 2Vn94q1RUjSMTc6LATMe/VIote/f+sreeYOTJ1ncop0=
+
+Name: com/mrcrayfish/framework/api/config/DoubleProperty.class
+SHA-256-Digest: ZIg+BtvqHFjxZ7cfjZa9M+XL5gymoeG4SvD7csE0ikc=
+
+Name: com/mrcrayfish/framework/api/sync/Serializers$13.class
+SHA-256-Digest: iYG3CmH079fhn3mONd2HFj9CgvMLeExyZvkH3x+uN/Q=
+
+Name: com/mrcrayfish/framework/event/ITickEvent$StartPlayer.class
+SHA-256-Digest: of6fdwojeTS2qavZkYNQwqDAKuDcVIVqGZBUts0Jw94=
+
+Name: com/mrcrayfish/framework/event/ITickEvent$StartServer.class
+SHA-256-Digest: NaUoUTPxaSeTnq08vwWswsKnlAGangJrLGMWeoUurIk=
+
+Name: com/mrcrayfish/framework/network/message/handshake/S2CSyncedEntity
+ Data.class
+SHA-256-Digest: r13p9BF1tq2zgIbA8J50ZwvPPcmDkolmqLKYGp0DKsk=
+
+Name: com/mrcrayfish/framework/platform/services/IItemHelper.class
+SHA-256-Digest: kSfR6zPRpCX8b4KoOeTQ5PGnC9fj6X+tApaiBUyXXnE=
+
+Name: com/mrcrayfish/framework/api/config/event/FrameworkConfigEvents$Lo
+ ad.class
+SHA-256-Digest: vtKicwjJyypuTmv7U9tmTnmreKnT2jZC6bD91ZD5LiQ=
+
+Name: com/mrcrayfish/framework/client/ClientFrameworkForge.class
+SHA-256-Digest: qqfV34secy+OyBlazUu8L50Sm495tIZjMXxQALVymAQ=
+
+Name: com/mrcrayfish/framework/network/message/IMessage.class
+SHA-256-Digest: B5jIUs6dTkBIk7AjDEmmAuIoobyFirNS4d94k1fCcm0=
+
+Name: com/mrcrayfish/framework/platform/services/IPlatformHelper$Platfor
+ m.class
+SHA-256-Digest: qZc3D8pDVYc7NabDSW0GnOtvheMlMDwK9t76RlEU9do=
+
+Name: com/mrcrayfish/framework/api/config/event/FrameworkConfigEvents$Re
+ load.class
+SHA-256-Digest: aSkEhFGLh8Nst5E+lMPAj9y7ESavEusYNtwF283zOCg=
+
+Name: com/mrcrayfish/framework/api/client/screen/widget/TooltipOptions.c
+ lass
+SHA-256-Digest: Ot97MpXSF8z4KJwUULt1ykqCI/xMw3KzQXname1czZA=
+
+Name: com/mrcrayfish/framework/config/FrameworkConfigManager$FrameworkCo
+ nfigImpl.class
+SHA-256-Digest: BUjLqq3IoJv7D5OomWrUmEjueOfAYX00wxxqyQ0pgcc=
+
+Name: com/mrcrayfish/framework/event/ITickEvent$StartLevel.class
+SHA-256-Digest: nehxFd5SNiHvuR6agpgGFHYkB6OQ5QZHlf8NthXiEBU=
+
+Name: com/mrcrayfish/framework/api/event/ScreenEvents.class
+SHA-256-Digest: XTN4S8HldKelmJxBMSOJV03bpt3hxsSWJefd6nrILTs=
+
+Name: com/mrcrayfish/framework/util/GsonUtils.class
+SHA-256-Digest: yrGliJcC0OwKPAm0/Mfa/ZJFHXx5A6UpGjzUM20YUzc=
+
+Name: com/mrcrayfish/framework/api/config/event/FrameworkConfigEvents$Un
+ load.class
+SHA-256-Digest: zRRwLeJzVJTBJDyHGfe1WrBkqQtms6kvGFNneyxz0rw=
+
+Name: com/mrcrayfish/framework/event/IClientEvent$PlayerInputUpdate.clas
+ s
+SHA-256-Digest: TNy07BTePnE86pGJBHg/tJlOjV9vGDWnSctEOwaKqKI=
+
+Name: com/mrcrayfish/framework/api/network/message/HandshakeMessage$Ackn
+ owledge.class
+SHA-256-Digest: eUIlJJFQZeG5GJP29Tk1RJqiLfktHie72waMr6f0aHM=
+
+Name: com/mrcrayfish/framework/platform/services/IPlatformHelper.class
+SHA-256-Digest: 3PWi9mizztpszfY7FzScXMK3m9Q478720WkVJrW/LEI=
+
+Name: com/mrcrayfish/framework/client/model/OpenModelDeserializer.class
+SHA-256-Digest: i0mHdpn/xUnNO6/I5zn9PhxfdioqB6OW768nKdO8Mz8=
+
+Name: com/mrcrayfish/framework/event/IEntityEvent$LeaveLevel.class
+SHA-256-Digest: Bfn4WUxUOJXAT7vfGBfyHxiGmBpFhBX2M5bdM5tsoCg=
+
+Name: com/mrcrayfish/framework/api/util/EnvironmentHelper.class
+SHA-256-Digest: MD/sPNTjLmM25xT8zx6qrUHuCqchgiDTRuVsXmGoEZE=
+
+Name: com/mrcrayfish/framework/platform/ForgeItemHelper.class
+SHA-256-Digest: /bp6fRhn0J6Tys4t1/M4p5PIJ6+OuWJXdsFpKnVVH5c=
+
+Name: com/mrcrayfish/framework/event/IScreenEvent$ModifyWidgets.class
+SHA-256-Digest: ljkMeEYkyW1cizLlKY2/puuEDFsz9DgDQ214o+bcS38=
+
+Name: com/mrcrayfish/framework/platform/ForgeNetworkHelper.class
+SHA-256-Digest: MDcdSAIkqlqwDcLt7sCEatHfzzhKw6JUrK5C3ZeAudg=
+
+Name: com/mrcrayfish/framework/network/message/LoginIndexHolder.class
+SHA-256-Digest: 0gG4u6Ppt0BSHdROKSW35iRQPcFTACecd+CEdHqyZvg=
+
+Name: com/mrcrayfish/framework/api/registry/FrameworkRegistry.class
+SHA-256-Digest: hZD/dj6HkYgDibx9AU1G8Rlx541KGplcD2lJvx3Zu1Q=
+
+Name: com/mrcrayfish/framework/api/network/FrameworkNetworkBuilder.class
+SHA-256-Digest: F4HqFHJI4jkwC9sKPnxKWCiF5jpCLzkmIVDHoD6Pg/I=
+
+Name: com/mrcrayfish/framework/api/config/EnumProperty.class
+SHA-256-Digest: KgznY8W9oGkEe4ym5q0A6Fzr5Bh0iqioigb94VS7iHE=
+
+Name: com/mrcrayfish/framework/platform/ForgeClientHelper.class
+SHA-256-Digest: taIW/u89HVLdLw/60NzfhlZpEtEYTqrIjqRIqMupulk=
+
+Name: com/mrcrayfish/framework/api/event/PlayerEvents.class
+SHA-256-Digest: NKsATHD6e0E9EHvwbYHKogHRDTFlhWw5pdJUPXXG9nM=
+
+Name: com/mrcrayfish/framework/api/config/ConfigProperty.class
+SHA-256-Digest: uX49hQrt5dLltK+RDr2quZroWxX0vw377StEv8ZUFiA=
+
+Name: com/mrcrayfish/framework/event/IPlayerEvent$LoggedOut.class
+SHA-256-Digest: 7UFKTpsf52jVZT/XLcZb5vSSyF2gaR9MS1eDo8mgFf8=
+
+Name: com/mrcrayfish/framework/api/client/screen/widget/FrameworkSelecti
+ onList$ItemSprites.class
+SHA-256-Digest: j7hM5DI7NWDoMP56/dEW71gsBxwV9NkzD03/Js+MTr0=
+
+Name: com/mrcrayfish/framework/api/client/screen/widget/FrameworkSelecti
+ onList$1.class
+SHA-256-Digest: 6il+dNRK0JurznU2A24vNz9BqbFZrd/I4/5nyJWShzU=
+
+Name: META-INF/services/com.mrcrayfish.framework.platform.services.IEnti
+ tyHelper
+SHA-256-Digest: 14Fk7sKc5+5T/nEDuo+2vHcd806zHLABtL044cD+u+A=
+
+Name: com/mrcrayfish/framework/event/IEntityEvent$LivingEntityDeath.clas
+ s
+SHA-256-Digest: n0Vf9//1MxjtsuzwFaOY6140x0y8/IBkhEJbEjcwCog=
+
+Name: com/mrcrayfish/framework/event/IPlayerEvent$LoggedIn.class
+SHA-256-Digest: M4Mzfsuq6qXNGH9P+QSXAQSO70rIgz7hItIJDlXk3dU=
+
+Name: com/mrcrayfish/framework/api/client/screen/widget/FrameworkEditBox
+ $CenteredSpriteWidget.class
+SHA-256-Digest: ArwrzwdCzxgLcQ6Id80g0dSzG2Qr/DXscsuepKyTakU=
+
+Name: com/mrcrayfish/framework/api/sync/SyncedClassKey.class
+SHA-256-Digest: 3jEvBJtyCPr0Ou+MGj995R2eCEgUnw59aDEvgUXoU+Q=
+
+Name: com/mrcrayfish/framework/api/registry/IRegisterFunction.class
+SHA-256-Digest: 3+ZoWC+7YFVw+6mU/IFtkj8Vdv2rltBmH8QQIkTb1K0=
+
+Name: com/mrcrayfish/framework/event/IClientConnectionEvent$LoggingOut.c
+ lass
+SHA-256-Digest: PwzuUBbUpQpUD2A8GBJmca+ivwAZ0FRmTyHHUfKDbZk=
+
+Name: com/mrcrayfish/framework/api/client/screen/widget/texture/NineSlic
+ eTexture.class
+SHA-256-Digest: 3E4TkGzc0Pb4wDyqROvOJvDfIKgUlqr8RPKlT8XrrkM=
+
+Name: com/mrcrayfish/framework/client/resources/IResourceSupplier.class
+SHA-256-Digest: hha9GDZGm4QY2sPiSd3kfC6g/1vZzHUD+1Cf1BeX+YY=
+
+Name: META-INF/services/com.mrcrayfish.framework.platform.services.INetw
+ orkHelper
+SHA-256-Digest: Cc83r+06qRPYBZq/nJK8Grwqy97JniHYGIprgzIyWaw=
+
+Name: com/mrcrayfish/framework/api/client/screen/widget/FrameworkButton$
+ ToggleContentRenderer.class
+SHA-256-Digest: iaidUfKW1iaFiwFhgSOj5Hg47r22FyDC1QI4VWwGksg=
+
+Name: com/mrcrayfish/framework/registry/RegisterConsumer.class
+SHA-256-Digest: FFC40+edfxX5iPU6cnJyoTc12thAPH2zoS358uiqZlk=
+
+Name: com/mrcrayfish/framework/api/config/BoolProperty.class
+SHA-256-Digest: x2t2J8JyXjm+LFyxfPFctXKZJSi2P7jHmj83QxWBsxQ=
+
+Name: com/mrcrayfish/framework/event/IEntityEvent.class
+SHA-256-Digest: IGpnfesoPFkRrwNhcPNGcawA4mUVgbEMUz9cXcnxOGE=
+
+Name: com/mrcrayfish/framework/event/IScreenEvent$Init.class
+SHA-256-Digest: XzsjZIsr9IX9Hg3uMRQc3JKES8PXdZeaNJbwkFsnDqA=
+
